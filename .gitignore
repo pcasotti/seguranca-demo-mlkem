@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+Projeto/kem_experiment
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+
